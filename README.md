@@ -17,7 +17,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tech Mine Squad Project Video](https://www.youtube.com/watch?v=rCXGuzszJe8)
-- [Connecting Farmers to Consumers: Revolutionizing the Agricultural Market](https://docs.google.com/presentation/d/1VjfVNGDEMOyphDPtaJ6nqDKUrFv0dVcHK74vojPU3d4/edit?usp=sharing)<b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
